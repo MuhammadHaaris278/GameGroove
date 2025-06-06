@@ -8,7 +8,7 @@ Built with **Next.js** and **Tailwind CSS**, GameGroove delivers a modern, respo
 
 ## 🚀 Live Demo
 
-👉 [Visit GameGroove](https://gamegroove.example.com)  
+👉 [Visit GameGroove](https://gamegroovepk.vercel.app/)  
 👉 [Founder Portfolio](https://haaris-portfolio.vercel.app/)
 
 ---
